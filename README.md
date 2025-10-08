@@ -44,6 +44,14 @@ Write the detailed procedure here
 
 **Program:**
 
+1) full adder <img width="777" height="190" alt="Screenshot 2025-10-08 111845" src="https://github.com/user-attachments/assets/a3b4309d-c1cd-4469-beb2-6b598e0b185b" />
+
+
+2) full subtractor <img width="1510" height="681" alt="Screenshot 2025-10-08 112821" src="https://github.com/user-attachments/assets/741ab4d4-3674-48d7-af44-3ed2d83b0930" />
+
+
+
+
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
